@@ -4,7 +4,7 @@ This is my home page! My name is Bao Nguyen and I am a student at [Cal State Ful
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/22bnguyent.github.io
+My GitHub page is http://github.com/22bnguyent/22bnguyent.github.io
 
 ### CPSC 120
 
