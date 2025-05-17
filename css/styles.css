@@ -351,6 +351,7 @@ body {
   border-radius: 5px;
   overflow: hidden;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  margin-bottom: 30px;
 }
 
 .project-img {
@@ -380,6 +381,15 @@ body {
 .tech-stack p {
   margin-top: 5px;
   font-size: 1.1rem;
+}
+
+.project-challenges {
+  margin-top: 20px;
+}
+
+.project-challenges h5 {
+  margin-bottom: 10px;
+  font-weight: 600;
 }
 
 /* Responsive */
@@ -441,4 +451,20 @@ body {
   #sidebar.active + #content {
     margin-left: var(--sidebar-collapsed-width);
   }
+}
+
+/* Content Sections */
+.section {
+  margin: 40px 0;
+}
+
+.section-title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 30px;
+  color: var(--primary-color);
+}
+
+.section-content {
+  padding: 20px 0;
 }
