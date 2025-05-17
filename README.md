@@ -6,7 +6,7 @@ A personal portfolio website built with HTML, CSS, and JavaScript. This portfoli
 
 Before you begin, ensure you have the following installed:
 - A modern web browser (Chrome/Safari/Others)
-- A code editor (VS Code, Sublime Text, etc.)
+- A code editor (VS Code, Sublime Text, etc.) (optional)
 - Git (optional, for version control)
 
 ## Project Structure
@@ -33,7 +33,7 @@ portfolio/
 
 1. **Use Link It Is Hosted or Clone or Download the Repository**
    ```bash
-   git clone https://github.com/yourusername/portfolio.git
+   git clone https://github.com/22bnguyent/22bnguyent.github.io.git
    ```
    Or download the ZIP file and extract it to your desired location.
 
