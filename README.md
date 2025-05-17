@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-A personal portfolio website built with HTML, CSS, and JavaScript. This portfolio showcases my projects, skills, and professional information.
+A personal portfolio website built with HTML and CSS. This portfolio showcases my projects, skills, and professional information.
 
 ## Prerequisites
 
@@ -21,8 +21,6 @@ portfolio/
 │   └── sky-background.jpg       # Background image
 ├── css/
 │   └── styles.css               # Main stylesheet
-├── js/
-│   └── script.js                # JavaScript functionality
 ├── index.html                   # Home page
 ├── about.html                   # About page
 ├── projects.html                # Projects page
