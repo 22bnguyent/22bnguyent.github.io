@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bao Nguyen's Portfolio | Projects</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div class="wrapper">
+        <nav id="sidebar">
+            <div class="sidebar-header">
+                <h3><strong>Bao's Portfolio</strong></h3>
+            </div>
+            <ul class="list-unstyled components">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li class="active"><a href="projects.html">Projects</a></li>
+            </ul>
+        </nav>
+
+        <div id="content">
+            <div class="container">
+                    <h1 class="page-title">My Projects</h1>
+                <p class="lead">Here are some of the projects I've worked on.</p>
+
+                <div class="row">
+                    <div class="col-lg-8 mx-auto">
+                            <div class="project-card">
+                                <div class="project-img">
+                                <img src="assets/project1.jpg" alt="MoodSwings Project">
+                                </div>
+                                <div class="project-info">
+                                <h3>MoodSwings: AI Sentiment Analysis Web App</h3>
+                                <p>An interactive web app that scrapes Reddit content about any brand, analyzes sentiment using machine learning, and visualizes public opinion in real time.</p>
+                                    <div class="tech-stack">
+                                    <h5>Technologies Used:</h5>
+                                    <p>Flask, React.js, Scikit-learn, PRAW, Chart.js</p>
+                                    </div>
+                                    <div class="project-challenges mt-3">
+                                        <h5>Challenges & Outcomes:</h5>
+                                    <p>Handling noisy and sarcastic Reddit data posed significant challenges for accurate sentiment classification. By training a Naive Bayes model and integrating real-time scraping with a responsive frontend, the team delivered a fully functional tool that empowers users to gauge brand perception instantly and visually.</p>
+                                    </div>
+                                    <a href="#" class="btn btn-primary mt-3">View Project</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="js/script.js"></script>
+</body>
+</html>
